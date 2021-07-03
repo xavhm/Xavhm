@@ -3,7 +3,7 @@
 ## Hi, I'm Xavier :wave:
 
 French retrained Web Developer after 10 years in iGaming industry. :black_joker: <br/>
-Alumni of Le Wagon - French Bootcamp. :fr:
+Alumni at "Le Wagon" - French Bootcamp. :fr:
 
 I'm learning and practicing everything Ruby / Ruby on Rails. :gem: <br/>
 I'm also interested in GraphQL, VueJS :sparkles:
