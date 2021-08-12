@@ -5,7 +5,7 @@
 Retrained Web Developer after 10 years in iGaming industry. :black_joker: <br/>
 Alumni at "Le Wagon" Bootcamp. :fr:
 
-I'm practicing Ruby / Ruby on Rails. :gem: <br/>
-I'm also learning everything JavaScript (Stimulus, React, NextJS...) :sparkles:
+I'm learning everything JavaScript (Vue, Nuxt, Node...) :sparkles:
+I'm also practicing Ruby / Ruby on Rails. :gem: <br/>
 
 ----
