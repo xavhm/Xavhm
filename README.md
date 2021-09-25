@@ -4,8 +4,7 @@
 Former LiveOPS Manager in iGaming industry. <br/>
 Alumni at "Le Wagon" coding Bootcamp. :fr:
 
-Everything JavaScript (Vue, Nuxt, Node, Express...) :sparkles: <br/>
+JavaScript Lover (Vue, Nuxt...) :sparkles: <br/>
 Ruby on Rails. :gem: <br/>
-Also Firebase.
 
 ----
