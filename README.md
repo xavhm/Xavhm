@@ -3,7 +3,7 @@
 
 ### Front-End Developer VueJS @ RaccourciAgency (FR)
 
-<font size="2"> I work mainly with these technologies : <br>
+<font size="1"> I work mainly with these technologies : <br>
 TypeScript, <br>
 Vue3 (Composition API, Pinia), <br>
 Vue2 (Options API, Class components, VueX), <br>
