@@ -1,9 +1,12 @@
 
 ## Hi, I'm Xavier :wave:
 
-### Front-End Developer VueJS @ RaccourciAgency (FR)
+### Front-End Developer TypeScript / VueJS 3 @ RaccourciAgency (FR)
 
-<font size="1"> I work mainly with these technologies : <br>
+I work mainly with these technologies :
+Vue3 (Composition API, Pinia),
+
+I work mainly with these technologies : <br>
 <br>
 TypeScript, <br>
 Vue3 (Composition API, Pinia), <br>
