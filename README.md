@@ -1,7 +1,7 @@
 
 ## Hi, I'm Xavier :wave:
 
-Front-End Developer VueJS @ RaccourciAgency
+### Front-End Developer VueJS @ RaccourciAgency
 
 I work mainly with these technologies : <br>
 TypeScript, <br>
