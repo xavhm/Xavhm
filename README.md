@@ -13,3 +13,4 @@ React (Functional components, Redux)<br>
 Vite, Vitest, Sass, PostCSS, TailwindCSS<br>
 PugJS, Storybook...<br>
 <br>
+💫
