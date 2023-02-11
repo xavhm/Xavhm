@@ -5,7 +5,7 @@
 
 I work mainly with these technologies : <br>
 <br>
-Vue3 (Composition API, Pinia),<br>
+Vue3 (Composition API, Pinia), Nuxt3<br>
 Vue2 (Options API, Class components, VueX)<br>
 <br>
 React (Functional components, Redux)<br>
