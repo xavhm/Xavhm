@@ -11,6 +11,6 @@ Vue2 (Options API, Class components, VueX)<br>
 React (Functional components, Redux)<br>
 <br>
 Vite, Vitest, Sass, PostCSS, TailwindCSS<br>
-PugJS, Storybook...<br>
+PugJS, Storybook, Figma, Midjourney IA...<br>
 <br>
 💫
