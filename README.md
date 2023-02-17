@@ -3,7 +3,6 @@
 
 ### Front-End Developer TypeScript / VueJS 3 @ RaccourciAgency (FR)
 
-I work mainly with these technologies : <br>
 <br>
 Vue3 (Composition API, Pinia), Nuxt3<br>
 React (Functional components, Redux)
