@@ -1,6 +1,4 @@
-
-## Hi, I'm Xavier :wave:
-
+### I'm Xavier, 
 ### Front-End Developer TypeScript / VueJS 3 @ RaccourciAgency (FR)
 
 <br>
