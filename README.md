@@ -1,4 +1,4 @@
-### 👋 I'm Xavier, 
+### 👋  I'm Xavier, 
 ### Front-End Developer TypeScript / Vue3 @RaccourciAgency (FR)
 
 Technical Stack : <br>
