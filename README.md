@@ -1,11 +1,8 @@
-### I'm Xavier, 
-### Front-End Developer TypeScript / VueJS 3 @ RaccourciAgency (FR)
+### 👋 I'm Xavier, 
+### Front-End Developer TypeScript / Vue3 @RaccourciAgency (FR)
 
-<br>
-Vue3 (Composition API, Pinia), Nuxt3<br>
-React (Functional components, Redux), NextJS
-<br>
-Vite, Vitest, Sass, PostCSS, TailwindCSS<br>
-PugJS, Storybook, Figma...<br>
-<br>
+Technical Stack : <br>
+Typescript, Vue3, Nuxt3, React, NextJS,, Node <br>
+Vite, Vitest, Sass, PostCSS, TailwindCSS <br>
+PugJS, StoryBook, Figma... <br>
 💫
