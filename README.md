@@ -4,7 +4,7 @@
 <p align="center">
   <samp>
     <br/>
-    Frontend Engineer & Fullstack student @RaccourciAgency. 🇫🇷<br/>
+    Frontend Engineer & Fullstack rookie @RaccourciAgency. 🇫🇷<br/>
     I work with Typescript, Vite, Vue, Nuxt, React, WebComponents, Tailwind, and Node. I play with Rust and Go. <br/>
     <br/>
     <a href="https://www.xavhm.foo" target="_blank" rel="noopener">Website</a> .
