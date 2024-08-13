@@ -3,6 +3,7 @@
   <td>
 <p align="center">
   <samp>
+    <br/>
     Frontend Engineer & Fullstack student @RaccourciAgency. 🇫🇷<br/>
     I work with Typescript, Vite, Vue, Nuxt, React, WebComponents, Tailwind, and Node. I play with Rust and Go. <br/>
     <br/>
