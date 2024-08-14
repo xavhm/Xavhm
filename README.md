@@ -1,5 +1,5 @@
-<div style="width:100%, display:flex; justify-content:center;">
-  <table style="margin-left: auto; margin-right: auto; width: 50%;">
+<div align="center">
+  <table>
     <tr>
     <td>
   <p align="center">
