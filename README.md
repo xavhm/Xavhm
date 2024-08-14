@@ -1,3 +1,4 @@
+<div style="width:100%, display:flex; justify-content:center;">
 <table>
   <tr>
   <td>
@@ -15,3 +16,4 @@
 </td>
 </tr>
 </table>
+</div>
