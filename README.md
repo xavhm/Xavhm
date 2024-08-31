@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
       <br/>
-      👾 Frontend developer & Fullstack rookie @RaccourciAgency. 🇫🇷<br/>
+      👾 Frontend developer & Fullstack rookie @RaccourciAgency 🇫🇷<br/>
       I work with Typescript, Vite, Vue, React, WebComponents. I play with Deno and Go. <br/>
       <br/>
       <a href="https://www.xavhm.foo" target="_blank" rel="noopener noreferer">Website</a> .
