@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
       <br/>
-      👨‍💻 Frontend Engineer & Fullstack rookie @RaccourciAgency 🇫🇷<br/>
+      👨‍💻 Frontend Engineer - Fullstack @RaccourciAgency 🇫🇷<br/>
       I work with Typescript, Vite, Vue, React, WebComponents. I play with Node and Bun. <br/>
       <br/>
       <a href="https://www.xavhm.foo" target="_blank" rel="noopener noreferer">Website</a> .
