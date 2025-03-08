@@ -5,8 +5,8 @@
   <p align="center">
     <samp>
       <br/>
-      👨‍💻 Frontend Engineer - Fullstack @RaccourciAgency 🇫🇷<br/>
-      I work with Typescript, Vite, Vue, React, WebComponents. I play with Node and Deno. <br/>
+      🌐 Fullstack Engineer | Frontend Specialist 🇫🇷<br/>
+      I work with Typescript, Vite, Vue, React, WebComponents. I play with Node, Bun and Go. <br/>
       <br/>
       <a href="https://www.xavhm.foo" target="_blank" rel="noopener noreferer">Website</a> .
       <a href="https://www.linkedin.com/in/xavhm/" target="_blank" rel="noopener noreferer">LinkedIn</a> .
