@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
       <br/>
-      🌐 Fullstack Engineer | Frontend Specialist 💚<br/>
+      👾 Fullstack Engineer | Frontend Specialist 💚<br/>
       I work with Typescript, Vite, Vue, React, and WebComponents. <br/> 
       I also love Node, and Go. <br/>
       <br/>
