@@ -6,8 +6,8 @@
     <samp>
       <br/>
       👨‍💻 Fullstack Engineer | Frontend Specialist 💚<br/>
-      I work with Typescript, Vite, Vue, and WebComponents. <br/> 
-      I also love Rust, Bun, and React. <br/>
+      Typescript, Rust, Vite, Vue. <br/> 
+      Bun, React, and Web-components. <br/>
       <br/>
       <a href="https://www.xavhm.foo" target="_blank" rel="noopener noreferer">Folio</a> .
       <a href="https://www.linkedin.com/in/xavhm/" target="_blank" rel="noopener noreferer">LinkedIn</a>
