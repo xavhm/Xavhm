@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
       <br/>
-      👨‍💻 Fullstack Engineer | Frontend Specialist 💚<br/>
+      👨‍💻 Web Engineer | Frontend Specialist 💚<br/>
       Typescript, Rust, Vite, Vue <br/> 
       Bun, React, and Web-components <br/>
       <br/>
