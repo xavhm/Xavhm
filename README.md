@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
       <br/>
-      👨‍💻 Senior Frontend & Product Engineer 💚<br/>
+      👾 Senior Frontend & Product Engineer 💚<br/>
       Typescript, Vite, Vue, Nuxt, React <br/> 
       Node, Bun, and Web-components <br/>
       <br/>
