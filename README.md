@@ -5,8 +5,8 @@
   <p align="center">
     <samp>
       <br/>
-      👾 Senior Frontend & Product Engineer 💚<br/>
-      Typescript, Vite, Vue, Nuxt, React <br/> 
+      👾 Senior Frontend & Product Engineer 👾<br/>
+      Typescript, Vite, Vue, Nuxt, React, Tanstack <br/> 
       Node, Bun, and Web-components <br/>
       <br/>
       <a href="https://www.xavhm.foo" target="_blank" rel="noopener noreferer">Folio</a> .
