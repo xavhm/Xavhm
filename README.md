@@ -1,7 +1,4 @@
 <div align="center">
-  <table>
-    <tr>
-    <td>
   <p align="center">
     <samp>
       <br/>
@@ -13,7 +10,4 @@
       <a href="https://www.linkedin.com/in/xavhm/" target="_blank" rel="noopener noreferer">LinkedIn</a>
     </samp>
   </p>
-  </td>
-  </tr>
-  </table>
 </div>
