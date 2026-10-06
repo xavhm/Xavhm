@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Xavier Hernandez 👾</h1>
   <p><strong>Senior Frontend &amp; Product Engineer</strong></p>
   <p>Frontend architecture · Product Engineering</p>
