@@ -6,7 +6,6 @@
     <a href="https://www.xavhm.foo">Portfolio</a> &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/xavhm/">LinkedIn</a> &nbsp;·&nbsp;
   </p>
-  <samp>La Rochelle, France · Open to remote or hybrid opportunities in France &amp; the EU</samp>
 </div>
 
 ---
