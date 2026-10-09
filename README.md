@@ -3,7 +3,7 @@
   <p><strong>Senior Frontend &amp; Product Engineer</strong></p>
   <p>
     <a href="https://www.xavhm.foo">Portfolio</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/xavhm/">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/xavhm/">LinkedIn</a> &nbsp;
   </p>
 </div>
 
@@ -21,7 +21,7 @@ That experience shapes how I approach software: understand the workflow, questio
 
 ### Tools & focus
 
-**Frontend**
+**Frontend & fullstack**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
